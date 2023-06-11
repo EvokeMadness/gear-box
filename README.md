@@ -1,6 +1,6 @@
 # "Gear Box"
 
-## Summary
+### Summary
 
 A gear that functions as a box! This box measures roughly 110 mm x 110 mm x 40 mm and is in the shape of a gear.
 
