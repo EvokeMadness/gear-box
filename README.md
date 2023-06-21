@@ -25,7 +25,7 @@ This model was made from the DXF file I used to create a logo for my college's e
 
 ### Notes
 
-- Two models are provided and are labeled '6 mm' and '7 mm' accordingly. This refers to the diameter of the hole in which your magnets rest. If you are using leftover magnets from a Klicky Probe mod I suggest that you use the '6 mm' variant. However, it is still best for you to confirm the actual diameter of your magnets.
+- Two models are provided and are labeled '6 mm' and '7 mm' accordingly. This refers to the diameter of the hole in which your magnets rest. If you are using leftover magnets from a Klicky Probe mod, I suggest that you use the '6 mm' variant. However, it is still best for you to confirm the actual diameter of your magnets.
 
 ## Assembly
 
@@ -35,7 +35,7 @@ This model was made from the DXF file I used to create a logo for my college's e
 - Place one magnet in each hole containing glue. Position each magnet in the center of each hole. (This is important to best align each gear half.)
 - Do not connect the gear halves until the glue completely dries.
 - Roll the adhesive putty so that its length measures 150 mm. Shape the adhesive putty roll into a ring by connecting each end. Do this for a total of two (2) times.
-- Adhere the putty to the reflective side of the mirror with an even distance from the center of the mirror. Do this for both mirrors.
+- Adhere the putty to the reflective side of the mirror at an even distance from the center of the mirror. Do this for both mirrors.
 - Attach a mirror to each gear half by firmly pressing the mirror assembly into the center of each gear half. This won't take any time to set.
 
 ## Optional
@@ -45,10 +45,10 @@ This model was made from the DXF file I used to create a logo for my college's e
 
 ## Warnings
 
-Glass, including mirrors, don't mix well with nuts, bolts, and other small metal masses! If you're planning on using this box to hold any of these items make sure to line both sides of the gear halves to prevent any unexpected breaking of the glass sides.
+Glass, including mirrors, do not mix well with nuts, bolts, and other small metal masses. If you're planning on using this box to hold any of these items, make sure to line both sides of the gear halves to prevent any unexpected breaking of the glass sides.
 
 ## A note from the designer
 
-Hey! Thanks for checking out my design and I hope you have a good time with it. If you've printed and assembled this design I'd love to see it. Post a make of this model to the Printables page assembled and sitting on a workbench, desk, or bookshelf. (You can set the box on its teeth or on one side.) If you have any issues with the original model please let me know and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/gear-box) page. If you have any suggestions for variants of this model please leave a comment, and I also want to encourage remixes of this design. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/gear-box) page.
+Hey! Thanks for checking out my design, and I hope you have a good time with it. If you've printed and assembled this design, I'd love to see it. Post a make of this model to the Printables page assembled and sitting on a workbench, desk, or bookshelf. (You can set the box on its teeth or on one side.) If you have any issues with the original model, please let me know, and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/gear-box) page. If you have any suggestions for variants of this model, please leave a comment, and I also want to encourage remixes of this design. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/gear-box) page.
 
 Happy printing!
