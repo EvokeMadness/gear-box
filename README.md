@@ -44,7 +44,7 @@ This model was made from the DXF file I used to create a logo for my college's e
 ## Optional
 
 - Line the inside of each gear half assembly with batting, felt, or even tool drawer liner. Provided with the model is an SVG file with the pattern for this use.
-- Replace the mirrors with a different material like something transparent, or a 3D-printed disk in a differing filament.
+- Replace the mirrors with a different material like something transparent or a 3D-printed disk in a different filament.
 
 ## Warnings
 
@@ -52,6 +52,6 @@ Glass, including mirrors, do not mix well with nuts, bolts, and other small meta
 
 ## A note from the designer
 
-Hey! Thanks for checking out my design, and I hope you have a good time with it. If you've printed and assembled this design, I'd love to see it. Post a make of this model to the Printables page assembled and sitting on a workbench, desk, or bookshelf. (You can set the box on its teeth or on one side.) If you have any issues with the original model, please let me know, and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/gear-box) page. If you have any suggestions for variants of this model, please leave a comment, and I also want to encourage remixes of this design. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/gear-box) page.
+Hey! Thanks for checking out my design, and I hope you have a good time with it. If you've printed and assembled this design, I'd love to see it. Post a make of this model to the [Printables](https://www.printables.com/model/510575-gear-box) page assembled and sitting on a workbench, desk, or bookshelf. (You can set the box on its teeth or on one side.) If you have any issues with the original model, please let me know, and you can even open an issue on this model's [GitHub](https://github.com/EvokeMadness/gear-box) page. If you have any suggestions for variants of this model, please leave a comment, and I also want to encourage remixes of this design. The source files for this design can be found on its [GitHub](https://github.com/EvokeMadness/gear-box) page.
 
 Happy printing!
