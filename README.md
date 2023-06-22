@@ -1,5 +1,8 @@
 # "Gear Box"
 
+![](cover.png)
+ID: A picture of a small box in the shape of a gear. It is blue and has a mirror in the center of the gear. It sits on the top of a wooden bookshelf and is in front of a map.
+
 ### Summary
 
 A gear that functions as a box! This box measures roughly 110 mm x 110 mm x 40 mm and is in the shape of a gear.
@@ -41,7 +44,7 @@ This model was made from the DXF file I used to create a logo for my college's e
 ## Optional
 
 - Line the inside of each gear half assembly with batting, felt, or even tool drawer liner. Provided with the model is an SVG file with the pattern for this use.
-- Replace the mirrors with a different material like something transparent, or a 3D printed disk in a differing filament.
+- Replace the mirrors with a different material like something transparent, or a 3D-printed disk in a differing filament.
 
 ## Warnings
 
