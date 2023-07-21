@@ -5,15 +5,20 @@ ID: A picture of a small box in the shape of a gear. It is blue and has a mirror
 
 ### Summary
 
-A gear that functions as a box! This box measures roughly 110 mm x 110 mm x 40 mm and is in the shape of a gear.
+An artistic box in the shape of a gear! In the place of the shaft is a mirror that artistically simulates a hole passing through the box. The two sides of the box are held together by magnets. (Perhaps some left over from a Voron Klicky Probe?)
 
-In place of the shaft is a mirror that artistically simulates a hole passing through the box. The two sides of the box are held together by magnets. (Perhaps some left over from a Voron Klicky Probe?)
+The box is available in four variations:
 
-This model was made from the DXF file I used to create a logo for my college's engineering club. I really liked the proportions and thought it looked good as a physical item. I later turned it into a box to hold my many other printed gears from various projects.
+- 2 inch mirror, 6 mm dia. magnet
+- 3 inch mirror, 6 mm dia. magnet
+- 2.75 inch mirror, 6 mm dia. magnet
+- 2.75 inch mirror, 7 mm dia. magnet
+
+This model was made from the DXF file I used to create a logo for my college's engineering club. I really liked the proportions and thought it looked good as a physical item. I later turned it into a box to hold other printed gears from various projects.
 
 ## Print Settings
 
-- Select the model which best fits your magnet size. (Print two (2) gear halves of the same size. See notes below in the next section for help selecting the correct model.)
+- Select the model which best fits your mirror and magnet size. (Print two gear halves of the same variation.
 - Print without supports.
 - Print individually. (One half per print.)
 - Print with 20% infill.
@@ -21,29 +26,25 @@ This model was made from the DXF file I used to create a logo for my college's e
 
 ## Bill of Materials
 
-- Two circle mirrors 1.5" - 2.75" in diameter
-- At least two magnets. (See note below for correct sizes.)
+- Two identical round mirrors.
+- At least two magnets.
 - Permanent adhesive
 - Adhesive putty
-
-### Notes
-
-- Two models are provided and are labeled '6 mm' and '7 mm' accordingly. This refers to the diameter of the hole in which your magnets rest. If you are using leftover magnets from a Klicky Probe mod, I suggest that you use the '6 mm' variant. However, it is still best for you to confirm the actual diameter of your magnets.
 
 ## Assembly
 
 - After printing each gear half, place both halves with the open side facing up.
 - Orient both gears to where one spur from each gear is touching flat against the other.
-- Add glue to the holes spanning from left to right. (There should be four (4) holes total.)
+- Add glue to the holes spanning left to right. (There should be four holes total.)
 - Place one magnet in each hole containing glue. Position each magnet in the center of each hole. (This is important to best align each gear half.)
 - Do not connect the gear halves until the glue completely dries.
-- Roll the adhesive putty so that its length measures 150 mm. Shape the adhesive putty roll into a ring by connecting each end. Do this for a total of two (2) times.
+- Roll the adhesive putty so that its length matches the circumference of the mirror. Shape the adhesive putty roll into a ring by connecting each end. Do this for a total of two times.
 - Adhere the putty to the reflective side of the mirror at an even distance from the center of the mirror. Do this for both mirrors.
 - Attach a mirror to each gear half by firmly pressing the mirror assembly into the center of each gear half. This won't take any time to set.
 
 ## Optional
 
-- Line the inside of each gear half assembly with batting, felt, or even tool drawer liner. Provided with the model is an SVG file with the pattern for this use.
+- Line the inside of each gear half assembly with batting, felt, or even tool drawer liner. Provided with the model is an SVG file with the pattern in each size for this use.
 - Replace the mirrors with a different material like something transparent or a 3D-printed disk in a different filament.
 
 ## Warnings
