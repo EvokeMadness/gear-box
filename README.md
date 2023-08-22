@@ -33,15 +33,15 @@ This model was made from the DXF file I used to create a logo for my college's e
 
 ## Assembly
 
-1) After printing each gear half, place both halves with the open side facing up.
-2) Orient both gears to where one spur from each gear is touching flat against the other.
-3) Add glue to the holes spanning left to right. (There should be four holes total.)
-4) Verify each magnet's polarity and place one magnet in each hole containing glue. Position each magnet in the center of each hole. (This is important to best align each gear half.) An example is provided below:
+- After printing each gear half, place both halves with the open side facing up.
+- Orient both gears to where one spur from each gear is touching flat against the other.
+- Add glue to the holes spanning left to right. (There should be four holes total.)
+- Verify each magnet's polarity and place one magnet in each hole containing glue. An example is provided below:
 ![](assembly.png)
-5) Do not connect the gear halves until the glue completely dries.
-6) Roll the adhesive putty so that its length matches the circumference of the mirror. Shape the adhesive putty roll into a ring by connecting each end. Do this for a total of two times.
-7) Adhere the putty to the reflective side of the mirror at an even distance from the center of the mirror. Do this for both mirrors.
-8) Attach a mirror to each gear half by firmly pressing the mirror assembly into the center of each gear half. This won't take any time to set.
+- Do not connect the gear halves until the glue completely dries.
+- Roll the adhesive putty so that its length matches the circumference of the mirror. Shape the adhesive putty roll into a ring by connecting each end. Do this for a total of two times.
+- Adhere the putty to the reflective side of the mirror at an even distance from the center of the mirror. Do this for both mirrors.
+- Attach a mirror to each gear half by firmly pressing the mirror assembly into the center of each gear half. This won't take any time to set.
 
 ## Notes
 
