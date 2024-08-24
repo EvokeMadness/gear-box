@@ -9,10 +9,9 @@ An artistic box in the shape of a gear! In the place of the shaft is a mirror th
 
 The box is available in four variations:
 
-- 2.75 inch mirror, 6 mm dia. magnet
-- 2 inch mirror, 6 mm dia. magnet
-- 3 inch mirror, 6 mm dia. magnet
-- 2.75 inch mirror, 7 mm dia. magnet
+- 2.75 inch mirror, 6 mm diameter magnet
+- 2 inch mirror, 6 mm diameter magnet
+- 3 inch mirror, 6 mm diameter magnet
 
 This model was made from the DXF file I used to create a logo for my college's engineering club. I really liked the proportions and thought it looked good as a physical item. I later turned it into a box to hold other printed gears from various projects.
 
