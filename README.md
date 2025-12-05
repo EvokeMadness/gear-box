@@ -40,8 +40,7 @@ This model was made from the DXF file I used to create a logo for my college's e
 - After printing each gear half, place both halves with the open side facing up.
 - Orient both gears to where one spur from each gear is touching flat against the other.
 - Add glue to the holes spanning left to right. (There should be four holes total.)
-- Verify each magnet's polarity and place one magnet in each hole containing glue. An example is provided below:
-![](assets/assembly.png)
+- Verify each magnet's polarity and place one magnet in each hole containing glue.
 - Do not connect the gear halves until the glue completely dries.
 - Roll the adhesive putty so that its length matches the circumference of the mirror. Shape the adhesive putty roll into a ring by connecting each end. Do this for a total of two times.
 - Adhere the putty to the reflective side of the mirror at an even distance from the center of the mirror. Do this for both mirrors.
@@ -69,6 +68,8 @@ Happy printing!
 
 # Previews
 
+![](assets/gear-box-anim.gif)
+
 ![](assets/preview.png)
 
-![](assets/gear-box-anim.gif)
+![](assets/assembly.png)
