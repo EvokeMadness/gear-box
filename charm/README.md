@@ -1,7 +1,7 @@
 # Gear Charm
 
-- Download from Printables here: [`Download Link`](https://www.printables.com/@EvokeMadness_492935)
-- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/EvokeMadness/designs)
+- Download from Printables here: [`Download Link`](https://www.printables.com/model/1541016-gear-charm)
+- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7260648)
 
 ## Summary
 
