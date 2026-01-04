@@ -11,7 +11,7 @@ Mini gear charm!
 
 # Summary
 
-Mini gear charm! This model is a keychain version of my gear box desk toy.
+Mini gear charm! This model is a keychain version of my [Gear Box]() desk toy.
 
 # Print Settings
 
