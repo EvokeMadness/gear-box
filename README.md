@@ -3,15 +3,13 @@
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/510575-gear-box)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:6441442)
 
-## Summary
-
-An artistic box in the shape of a gear!
-
 * * *
 
 # Summary
 
-An artistic box in the shape of a gear! In the place of the shaft is a mirror that artistically simulates a hole passing through the box. The two sides of the box are held together by magnets. (Perhaps some left over from a Voron Klicky Probe?)
+### An artistic box in the shape of a gear!
+
+In the place of the shaft is a mirror that artistically simulates a hole passing through the box. The two sides of the box are held together by magnets. (Perhaps some left over from a Voron Klicky Probe?)
 
 This model was made from the DXF file I used to create a logo for my college's engineering club. I really liked the proportions and thought it looked good as a physical item. I later turned it into a box to hold other printed gears from various projects.
 
